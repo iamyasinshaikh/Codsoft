@@ -1,2 +1,2 @@
-# Codsoft
-It is for codsoft internship 
+# CodSoft
+The internship task are given which i have performed in codsoft company.
